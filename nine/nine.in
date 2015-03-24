@@ -1,0 +1,324 @@
+8
+3
+30 START
+15 HOLD 5
+10 HOLD 5 IF fantasticfour
+3
+75 HOLD 20 IF yellowlightblinks
+150 HOLD 30 IF NOT fueled
+300 START
+2
+1440 HOLD 500
+500 START
+1
+15 START
+100
+500 START
+1 HOLD 5 IF egjbb
+2 HOLD 10 IF NOT egjbb
+3 HOLD 5 IF eeija
+4 HOLD 10 IF NOT eeija
+5 HOLD 5 IF ahfhd
+6 HOLD 10 IF NOT ahfhd
+7 HOLD 5 IF gggbf
+8 HOLD 10 IF NOT gggbf
+9 HOLD 5 IF fhbjg
+10 HOLD 10 IF NOT fhbjg
+11 HOLD 5 IF ijibg
+12 HOLD 10 IF NOT ijibg
+13 HOLD 5 IF fgfij
+14 HOLD 10 IF NOT fgfij
+15 HOLD 5 IF ggghg
+16 HOLD 10 IF NOT ggghg
+17 HOLD 5 IF gdhff
+18 HOLD 10 IF NOT gdhff
+19 HOLD 5 IF dicec
+20 HOLD 10 IF NOT dicec
+21 HOLD 5 IF giigi
+22 HOLD 10 IF NOT giigi
+23 HOLD 5 IF bbgcf
+24 HOLD 10 IF NOT bbgcf
+25 HOLD 5 IF bjgaa
+26 HOLD 10 IF NOT bjgaa
+27 HOLD 5 IF hcjif
+28 HOLD 10 IF NOT hcjif
+29 HOLD 5 IF iddac
+30 HOLD 10 IF NOT iddac
+31 HOLD 5 IF ecddc
+32 HOLD 10 IF NOT ecddc
+33 HOLD 5 IF gffje
+34 HOLD 10 IF NOT gffje
+35 HOLD 5 IF jbcib
+36 HOLD 10 IF NOT jbcib
+37 HOLD 5 IF aiaef
+38 HOLD 10 IF NOT aiaef
+39 HOLD 5 IF ahdef
+40 HOLD 10 IF NOT ahdef
+41 HOLD 5 IF hcjdc
+42 HOLD 10 IF NOT hcjdc
+43 HOLD 5 IF hgdee
+44 HOLD 10 IF NOT hgdee
+45 HOLD 5 IF aadhh
+46 HOLD 10 IF NOT aadhh
+47 HOLD 5 IF bghic
+48 HOLD 10 IF NOT bghic
+49 HOLD 5 IF jgfdb
+50 HOLD 10 IF NOT jgfdb
+51 HOLD 5 IF ficbb
+52 HOLD 10 IF NOT ficbb
+53 HOLD 5 IF fbhii
+54 HOLD 10 IF NOT fbhii
+55 HOLD 5 IF cbdfj
+56 HOLD 10 IF NOT cbdfj
+57 HOLD 5 IF gdjec
+58 HOLD 10 IF NOT gdjec
+59 HOLD 5 IF ddajd
+60 HOLD 10 IF NOT ddajd
+61 HOLD 5 IF cjjhf
+62 HOLD 10 IF NOT cjjhf
+63 HOLD 5 IF dcbhg
+64 HOLD 10 IF NOT dcbhg
+65 HOLD 5 IF ajhdg
+66 HOLD 10 IF NOT ajhdg
+67 HOLD 5 IF gbbag
+68 HOLD 10 IF NOT gbbag
+69 HOLD 5 IF hccbf
+70 HOLD 10 IF NOT hccbf
+71 HOLD 5 IF aeiaj
+72 HOLD 10 IF NOT aeiaj
+73 HOLD 5 IF begbh
+74 HOLD 10 IF NOT begbh
+75 HOLD 5 IF bjhej
+76 HOLD 10 IF NOT bjhej
+77 HOLD 5 IF fiacd
+78 HOLD 10 IF NOT fiacd
+79 HOLD 5 IF igehb
+80 HOLD 10 IF NOT igehb
+81 HOLD 5 IF hfdhi
+82 HOLD 10 IF NOT hfdhi
+83 HOLD 5 IF fbgeg
+84 HOLD 10 IF NOT fbgeg
+85 HOLD 5 IF hjebj
+86 HOLD 10 IF NOT hjebj
+87 HOLD 5 IF hfibg
+88 HOLD 10 IF NOT hfibg
+89 HOLD 5 IF jfage
+90 HOLD 10 IF NOT jfage
+91 HOLD 5 IF afddd
+92 HOLD 10 IF NOT afddd
+93 HOLD 5 IF agjfb
+94 HOLD 10 IF NOT agjfb
+95 HOLD 5 IF cibcd
+96 HOLD 10 IF NOT cibcd
+97 HOLD 5 IF bcghc
+98 HOLD 10 IF NOT bcghc
+99 HOLD 5 IF dcffh
+100
+500 START
+1 HOLD 5 IF added
+2 HOLD 10 IF NOT added
+3 HOLD 5 IF added
+4 HOLD 10 IF NOT added
+5 HOLD 5 IF added
+6 HOLD 10 IF NOT added
+7 HOLD 5 IF added
+8 HOLD 10 IF NOT added
+9 HOLD 5 IF added
+10 HOLD 10 IF NOT added
+11 HOLD 5 IF added
+12 HOLD 10 IF NOT added
+13 HOLD 5 IF added
+14 HOLD 10 IF NOT added
+15 HOLD 5 IF added
+16 HOLD 10 IF NOT added
+17 HOLD 5 IF added
+18 HOLD 10 IF NOT added
+19 HOLD 5 IF added
+20 HOLD 10 IF NOT added
+21 HOLD 5 IF added
+22 HOLD 10 IF NOT added
+23 HOLD 5 IF added
+24 HOLD 10 IF NOT added
+25 HOLD 5 IF added
+26 HOLD 10 IF NOT added
+27 HOLD 5 IF added
+28 HOLD 10 IF NOT added
+29 HOLD 5 IF added
+30 HOLD 10 IF NOT added
+31 HOLD 5 IF added
+32 HOLD 10 IF NOT added
+33 HOLD 5 IF added
+34 HOLD 10 IF NOT added
+35 HOLD 5 IF added
+36 HOLD 10 IF NOT added
+37 HOLD 5 IF added
+38 HOLD 10 IF NOT added
+39 HOLD 5 IF added
+40 HOLD 10 IF NOT added
+41 HOLD 5 IF added
+42 HOLD 10 IF NOT added
+43 HOLD 5 IF added
+44 HOLD 10 IF NOT added
+45 HOLD 5 IF added
+46 HOLD 10 IF NOT added
+47 HOLD 5 IF added
+48 HOLD 10 IF NOT added
+49 HOLD 5 IF added
+50 HOLD 10 IF NOT added
+51 HOLD 5 IF added
+52 HOLD 10 IF NOT added
+53 HOLD 5 IF added
+54 HOLD 10 IF NOT added
+55 HOLD 5 IF added
+56 HOLD 10 IF NOT added
+57 HOLD 5 IF added
+58 HOLD 10 IF NOT added
+59 HOLD 5 IF added
+60 HOLD 10 IF NOT added
+61 HOLD 5 IF added
+62 HOLD 10 IF NOT added
+63 HOLD 5 IF added
+64 HOLD 10 IF NOT added
+65 HOLD 5 IF added
+66 HOLD 10 IF NOT added
+67 HOLD 5 IF added
+68 HOLD 10 IF NOT added
+69 HOLD 5 IF added
+70 HOLD 10 IF NOT added
+71 HOLD 5 IF added
+72 HOLD 10 IF NOT added
+73 HOLD 5 IF added
+74 HOLD 10 IF NOT added
+75 HOLD 5 IF added
+76 HOLD 10 IF NOT added
+77 HOLD 5 IF added
+78 HOLD 10 IF NOT added
+79 HOLD 5 IF added
+80 HOLD 10 IF NOT added
+81 HOLD 5 IF added
+82 HOLD 10 IF NOT added
+83 HOLD 5 IF added
+84 HOLD 10 IF NOT added
+85 HOLD 5 IF added
+86 HOLD 10 IF NOT added
+87 HOLD 5 IF added
+88 HOLD 10 IF NOT added
+89 HOLD 5 IF added
+90 HOLD 10 IF NOT added
+91 HOLD 5 IF added
+92 HOLD 10 IF NOT added
+93 HOLD 5 IF added
+94 HOLD 10 IF NOT added
+95 HOLD 5 IF added
+96 HOLD 10 IF NOT added
+97 HOLD 5 IF added
+98 HOLD 10 IF NOT added
+99 HOLD 5 IF added
+5
+300 HOLD 10 IF added
+600 HOLD 20 IF added
+400 HOLD 30 IF NOT added
+700 HOLD 40 IF NOT added
+500 START
+100
+2 HOLD 60 IF NOT hfdfi
+3 HOLD 55 IF ifeee
+4 HOLD 60 IF NOT ifeee
+5 HOLD 55 IF bebgf
+6 HOLD 60 IF NOT bebgf
+7 HOLD 55 IF hcidf
+8 HOLD 60 IF NOT hcidf
+9 HOLD 55 IF eajah
+10 HOLD 60 IF NOT eajah
+11 HOLD 55 IF eeffg
+12 HOLD 60 IF NOT eeffg
+13 HOLD 55 IF daigj
+14 HOLD 60 IF NOT daigj
+15 HOLD 55 IF fdbbe
+16 HOLD 60 IF NOT fdbbe
+17 HOLD 55 IF idada
+18 HOLD 60 IF NOT idada
+19 HOLD 55 IF bfhjg
+20 HOLD 60 IF NOT bfhjg
+21 HOLD 55 IF bhcif
+22 HOLD 60 IF NOT bhcif
+23 HOLD 55 IF jfbdd
+24 HOLD 60 IF NOT jfbdd
+25 HOLD 55 IF idgia
+26 HOLD 60 IF NOT idgia
+27 HOLD 55 IF gebif
+28 HOLD 60 IF NOT gebif
+29 HOLD 55 IF fbeja
+30 HOLD 60 IF NOT fbeja
+31 HOLD 55 IF dicgg
+32 HOLD 60 IF NOT dicgg
+33 HOLD 55 IF ahcjc
+34 HOLD 60 IF NOT ahcjc
+35 HOLD 55 IF aabeg
+36 HOLD 60 IF NOT aabeg
+37 HOLD 55 IF geehe
+38 HOLD 60 IF NOT geehe
+39 HOLD 55 IF ijedf
+40 HOLD 60 IF NOT ijedf
+41 HOLD 55 IF hfddf
+42 HOLD 60 IF NOT hfddf
+43 HOLD 55 IF idhei
+44 HOLD 60 IF NOT idhei
+45 HOLD 55 IF iafic
+46 HOLD 60 IF NOT iafic
+47 HOLD 55 IF idchf
+48 HOLD 60 IF NOT idchf
+49 HOLD 55 IF agfgi
+50 HOLD 60 IF NOT agfgi
+51 HOLD 55 IF cfdgc
+52 HOLD 60 IF NOT cfdgc
+53 HOLD 55 IF hbgai
+54 HOLD 60 IF NOT hbgai
+55 HOLD 55 IF agghh
+56 HOLD 60 IF NOT agghh
+57 HOLD 55 IF cjhce
+58 HOLD 60 IF NOT cjhce
+59 HOLD 55 IF cbgad
+60 HOLD 60 IF NOT cbgad
+61 HOLD 55 IF cahhc
+62 HOLD 60 IF NOT cahhc
+63 HOLD 55 IF agcih
+64 HOLD 60 IF NOT agcih
+65 HOLD 55 IF deibb
+66 HOLD 60 IF NOT deibb
+67 HOLD 55 IF ghbjg
+68 HOLD 60 IF NOT ghbjg
+69 HOLD 55 IF diicf
+70 HOLD 60 IF NOT diicf
+71 HOLD 55 IF idjdi
+72 HOLD 60 IF NOT idjdi
+73 HOLD 55 IF aiggc
+74 HOLD 60 IF NOT aiggc
+75 HOLD 55 IF cdjad
+76 HOLD 60 IF NOT cdjad
+77 HOLD 55 IF bffgf
+78 HOLD 60 IF NOT bffgf
+79 HOLD 55 IF bcfga
+80 HOLD 60 IF NOT bcfga
+81 HOLD 55 IF didcc
+82 HOLD 60 IF NOT didcc
+83 HOLD 55 IF bhchc
+84 HOLD 60 IF NOT bhchc
+85 HOLD 55 IF djadb
+86 HOLD 60 IF NOT djadb
+87 HOLD 55 IF effgj
+88 HOLD 60 IF NOT effgj
+89 HOLD 55 IF hbiga
+90 HOLD 60 IF NOT hbiga
+91 HOLD 55 IF cjbab
+92 HOLD 60 IF NOT cjbab
+93 HOLD 55 IF hifhb
+94 HOLD 60 IF NOT hifhb
+95 HOLD 55 IF ffbgb
+96 HOLD 60 IF NOT ffbgb
+97 HOLD 55 IF faeif
+98 HOLD 60 IF NOT faeif
+99 HOLD 55 IF afejc
+100 HOLD 60 IF NOT afejc
+1 START
+
